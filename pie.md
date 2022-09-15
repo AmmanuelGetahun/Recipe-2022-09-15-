@@ -1,6 +1,7 @@
 Ingredients:
-- 2 bread
+- 3 bread
 - 1 lime
+- 1 onion
 - 2 tp salt
 - jalapeno to taste
 
